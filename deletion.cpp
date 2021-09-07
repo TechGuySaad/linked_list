@@ -19,6 +19,5 @@ q = p->link;
 
 p->link = q->link;
 
-delete q
-;
+delete q;
 }
